@@ -14,11 +14,9 @@ Make a block: use backtick ` x3
 <br> can be done by enter two spaces before the line break, and then select Enter to begin a new paragraph.(space, space, Enter)
 ```  
 
-####How to clone a repository from GitHub
+#### How to clone a repository from GitHub
 clone in a currect folder: git clone *githublink*  
-
 create another folder and clone it: git clone *githublink* .  
-
 [git-scm Doc](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
 
