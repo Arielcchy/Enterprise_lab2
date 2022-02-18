@@ -8,3 +8,8 @@
 [Markdown official doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 
 [Markdown syntax cheat sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+
+```
+Make a block: use backtick ` x3  
+<br> can be done by enter two spaces before the line break, and then select Enter to begin a new paragraph.(space, space, Enter)
+```  
