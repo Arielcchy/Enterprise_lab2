@@ -17,7 +17,7 @@ Make a block: use backtick ` x3
 #### How to clone a repository from GitHub
 clone in a currect folder: git clone *githublink*  
 create another folder and clone it: git clone *githublink* .  
-[git-scm Doc](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+[git Doc](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
 
 
